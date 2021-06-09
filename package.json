@@ -1,6 +1,6 @@
 {
   "name": "@maxxcrawford/card",
-  "version": "1.0.0",
+  "version": "1.7.0",
   "description": "A personal card for Maxx Crawford (@maxxcrawford)",
   "main": "/bin/card.js",
   "bin": {
@@ -42,6 +42,6 @@
   },
   "dependencies": {},
   "publishConfig": {
-    "registry": "https://npm.registry.github.com/"
+    "registry": "https://npm.registry.github.com/@maxxcrawford"
   }
 }
