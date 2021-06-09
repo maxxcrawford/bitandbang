@@ -24,7 +24,7 @@ const data = {
   github: chalk.gray('https://github.com/') + chalk.green('maxxcrawford'),
   linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('maxxcrawford'),
   web: chalk.cyan('https://maxxcrawford.com'),
-  npx: chalk.red('npx') + ' ' + chalk.white('@bnb/card  (via GitHub Package Registry)'),
+  npx: chalk.red('npx') + ' ' + chalk.white('@maxxcrawford/card  (via GitHub Package Registry)'),
   labelWork: chalk.white.bold('       Work:'),
   labelOpenSource: chalk.white.bold('Open Source:'),
   labelTwitter: chalk.white.bold('    Twitter:'),
