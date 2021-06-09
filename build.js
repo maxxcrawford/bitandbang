@@ -15,15 +15,15 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: chalk.white('               Tierney Cyren'),
-  handle: chalk.white('bitandbang'),
-  work: chalk.white('Senior Cloud Developer Advocate at Microsoft'),
+  name: chalk.white('               Maxx Crawford'),
+  handle: chalk.white('maxxcrawford'),
+  work: chalk.white('Senior UI Engineer at Mozilla'),
   opensource: chalk.white('Node.js Community Committee ') + chalk.green('⬢'),
-  twitter: chalk.gray('https://twitter.com/') + chalk.cyan('bitandbang'),
-  npm: chalk.gray('https://npmjs.com/') + chalk.red('~bnb'),
-  github: chalk.gray('https://github.com/') + chalk.green('bnb'),
-  linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('bitandbang'),
-  web: chalk.cyan('https://bnb.im'),
+  twitter: chalk.gray('https://twitter.com/') + chalk.cyan('woodenwarship'),
+  npm: chalk.gray('https://npmjs.com/') + chalk.red('~maxxcrawford'),
+  github: chalk.gray('https://github.com/') + chalk.green('maxxcrawford'),
+  linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('maxxcrawford'),
+  web: chalk.cyan('https://maxxcrawford.com'),
   npx: chalk.red('npx') + ' ' + chalk.white('@bnb/card  (via GitHub Package Registry)'),
   labelWork: chalk.white.bold('       Work:'),
   labelOpenSource: chalk.white.bold('Open Source:'),
