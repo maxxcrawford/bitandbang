@@ -1,16 +1,16 @@
 {
   "name": "@maxxcrawford/card",
-  "version": "1.6.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "version": "1.0.0",
+  "description": "A personal card for Maxx Crawford (@maxxcrawford)",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "maxxcrawford": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "git@github.com:maxxcrawford/card.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://maxxcrawford.com",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
@@ -26,7 +26,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Maxx Crawford <hello@maxxcrawford.com> (https://maxxcrawford.com)",
   "license": "MIT",
   "files": [
     "bin/card.js",
@@ -38,7 +38,7 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
+    "url": "https://github.com/maxxcrawford/card/issues"
   },
   "dependencies": {},
   "publishConfig": {
